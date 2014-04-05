@@ -12,5 +12,5 @@ includes[] = drupal-org-core.make
 ; Add Bear to the full distribution build.
 projects[bear][type] = profile
 projects[bear][download][type] = git
-projects[bear][download][url] = https://github.com/sheldonrampton/recruiter.git
+projects[bear][download][url] = https://github.com/sheldonrampton/bear.git
 projects[bear][download][branch] = 7.x-1.x
