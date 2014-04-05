@@ -8,7 +8,6 @@ core = 7.x
 
 ; Include the additional makes files we have created for core and contrib.
 includes[] = drupal-org-core.make
-includes[] = drupal-org.make
 
 ; Add Bear to the full distribution build.
 projects[bear][type] = profile
